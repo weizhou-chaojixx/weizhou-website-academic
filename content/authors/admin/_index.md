@@ -12,43 +12,35 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=oHXABA8AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/weizhou-chaojixx
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Huazhong University of Science and Technology
+    url: http://english.hust.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: Visiting Scholar
+      institution: Pennsylvania State University
+      year: 2018
+    - course: PhD in Information Security
+      institution: University of Chinese Academy of Sciences
+      year: 2016
+    - course: BSc in Information Security
+      institution: Xidian University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 email: ""
 superuser: true
 highlight_name: false
 ---
-![](hustseals.png)
-
-# Biography
+![](ustclogo.jpg)
 
 I am an Associate Professor of the School of Cyber Science and Engineering, Huazhong University of Science and Technology. My research interests cover a wide range of systems security, including trusted computing and IoT systems security. I am especially interested in developing automatic tools to detect and exploit previously unknown vulnerabilities in IoT firmware and platforms. My work helped many high-profile vendors improve their products’ security, including Alibaba, JD, Apple, Samsung, etc.
 
-# Opening:
+## Opening:
 
 I am looking for self-motivated master or Ph.D. students to work on cybersecurity problems, especially IoT security. Please send me your CV if interested. Candidates are expected to have a solid background in system programming and operating systems. If you are a HUST (undergraduate/master) student and has interested in IoT security, my lab is also welcome.
 
