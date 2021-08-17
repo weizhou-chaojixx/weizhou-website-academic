@@ -1,7 +1,7 @@
 ---
-title: Nelson Bighetti
+title: Wei Zhou
 role: Professor of Artificial Intelligence
-avatar_filename: yanjia.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
