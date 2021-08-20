@@ -1,4 +1,3 @@
----
 title: An example conference paper
 publication_types:
   - "1"
