@@ -7,7 +7,7 @@ bio: My research interests include IoT security, mobile security and program
 interests:
   - IoT Security
   - System Security
-  - Program Analysis
+  - Binary Analysis
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,9 +23,6 @@ organizations:
     url: http://english.hust.edu.cn/
 education:
   courses:
-    - course: Visiting Scholar
-      institution: Pennsylvania State University
-      year: 2018
     - course: PhD in Information Security
       institution: University of Chinese Academy of Sciences
       year: 2016
@@ -38,10 +35,17 @@ highlight_name: false
 ---
 ![](ustclogo.jpg)
 
-I am an Associate Professor of the School of Cyber Science and Engineering, Huazhong University of Science and Technology. My research interests cover a wide range of systems security, including trusted computing and IoT systems security. I am especially interested in developing automatic tools to detect and exploit previously unknown vulnerabilities in IoT firmware and platforms. My work helped many high-profile vendors improve their products’ security, including Alibaba, JD, Apple, Samsung, etc.
+## About Me
+I am an Associate Professor of the [School of Cyber Science and Engineering](http://cse.hust.edu.cn/), [Huazhong University of Science and Technology](http://english.hust.edu.cn/). Prior to joining HUST. I received my Ph.D. degree from the [University of Chinese Academy of Sciences](https://english.cas.cn/), under supervision of [Prof.Yuqing Zhang](http://people.ucas.ac.cn/~zhangyuqing?language=en) in 2021. I have also been visiting scholar in [Prof.Peng Liu](https://s2.ist.psu.edu/pliu/)’s cybersecurity lab at Penn State from 2018 to 2020.
 
-## Opening:
+My research interests cover a wide range of systems security, including trusted computing and IoT systems security. I am especially interested in developing automatic tools to detect and exploit previously unknown vulnerabilities in IoT firmware and platforms. 
 
-I am looking for self-motivated master or Ph.D. students to work on cybersecurity problems, especially IoT security. Please send me your CV if interested. Candidates are expected to have a solid background in system programming and operating systems. If you are a HUST (undergraduate/master) student and has interested in IoT security, my lab is also welcome.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CVshort.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+### Opening:
+
+I am looking for self-motivated master or Ph.D. students to work on cybersecurity problems, especially **IoT security**. 
+Please send me your CV if interested. Candidates are expected to have a solid background in system programming and operating systems. 
+If you are a HUST (undergraduate/master) student with interests in my areas, my lab is also welcome.
+
+
