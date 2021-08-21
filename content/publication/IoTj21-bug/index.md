@@ -16,7 +16,7 @@ authors:
   - Limin Sun
   - Yazhe Wang
   - Peng Liu
-publication: *IEEE Internet of Things Journal*
+publication: "*IEEE Internet of Things Journal*"
 abstract: In recent years, IoT platforms and systems have been rapidly emerging.
   Although IoT is a new technology, new does not mean simpler (than existing
   networked systems). Contrarily, the complexity (of IoT platforms and systems)
