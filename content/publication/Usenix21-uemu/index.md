@@ -3,7 +3,7 @@ title: Automatic Firmware Emulation through Invalidity-guided Knowledge Inferenc
 publication_types:
   - "1"
 authors:
-  - <strong>Wei Zhou</strong>
+  - admin
   - Le Guan
   - Peng Liu
   - Yuqing Zhang

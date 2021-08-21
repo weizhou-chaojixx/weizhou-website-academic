@@ -31,7 +31,7 @@ education:
       year: 2012
 email: ""
 superuser: true
-highlight_name: false
+highlight_name: true
 ---
 ![](ustclogo.jpg)
 
