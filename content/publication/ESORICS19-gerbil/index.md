@@ -25,7 +25,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: European Symposium on Research in Computer Security 2019 (ESORICS), **CCF-B**
+publication: *European Symposium on Research in Computer Security 2019 (ESORICS)*, **CCF-B**
 date: 2019-09-10T00:00:00.000Z
 publishDate: 2019-09-10T00:00:00.000Z
 

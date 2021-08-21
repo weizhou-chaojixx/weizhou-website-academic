@@ -9,7 +9,7 @@ authors:
   - Anni Peng
   - Yuqing Zhang
   - Peng Liu
-publication: IEEE Internet of Things Journal, **ESI Highly cited paper**
+publication: *IEEE Internet of Things Journal*, **ESI Highly Cited Paper**
 abstract: Internet of Things (IoT) is an increasingly popular technology that
   enables physical devices, vehicles, home appliances, etc., to communicate and
   even interoperate with one another. It has been widely used in industrial

@@ -43,7 +43,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: 30th USENIX Security Symposium (Usenix), **CCF-A**
+publication: *30th USENIX Security Symposium (Usenix)*, **CCF-A**
 projects:
   - example
 date: 2021-08-10T00:00:00.000Z
