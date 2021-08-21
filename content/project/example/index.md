@@ -1,15 +1,15 @@
 ---
 slides: example
 url_pdf: ""
-summary: ""
+summary: A Universal MCU Firmware Emulator for Dynamic Analysis without Any
+  Hardware Dependence
 url_video: ""
 date: 2021-07-30T00:00:00.000Z
 external_link: https://github.com/MCUSec/uEmu
 url_slides: ""
-title: A Universal MCU Firmware Emulator for Dynamic Analysis without Any
-  Hardware Dependence
+title: Universal IoT Firmware Emulator
 tags:
-  - smarthome
+  - firmware
 links: []
 image:
   caption: μEmu
