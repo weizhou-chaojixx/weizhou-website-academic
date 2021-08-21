@@ -3,7 +3,7 @@ title: Automatic Firmware Emulation through Invalidity-guided Knowledge Inferenc
 publication_types:
   - "1"
 authors:
-  - **admin**
+  - **Wei Zhou**
   - Le Guan
   - Peng Liu
   - Yuqing Zhang
@@ -14,6 +14,7 @@ featured: false
 tags: []
 slides: ""
 url_pdf: "https://www.usenix.org/system/files/sec21-zhou.pdf"
+url_slides: "https://www.usenix.org/system/files/sec21_slides_zhou.pdf"
 image:
   caption: ""
   focal_point: ""
@@ -29,7 +30,7 @@ publication: 30th USENIX Security Symposium (Usenix), **CCF-A**
 projects:
   - example
 date: 2021-08-10T00:00:00.000Z
-url_slides: "https://www.usenix.org/system/files/sec21_slides_zhou.pdf"
+
 publishDate: 2021-08-10T00:00:00.000Z
 url_poster: ""
 url_code: "https://github.com/MCUSec/uEmu"
