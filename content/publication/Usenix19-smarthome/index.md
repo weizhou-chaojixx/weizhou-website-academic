@@ -31,7 +31,7 @@ author_notes: []
 doi: ""
 publication: "*28th USENIX Security Symposium (Usenix)*, **CCF-A**"
 projects:
-  - example
+  - smarthome
 date: 2019-08-10T00:00:00.000Z
 publishDate: 2019-08-10T00:00:00.000Z
 

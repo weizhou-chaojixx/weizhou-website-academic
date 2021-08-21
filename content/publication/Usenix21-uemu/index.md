@@ -45,7 +45,7 @@ author_notes: []
 doi: ""
 publication: "*30th USENIX Security Symposium (Usenix)*, **CCF-A**"
 projects:
-  - example
+  - uEmu
 date: 2021-08-10T00:00:00.000Z
 url_slides: https://www.usenix.org/system/files/sec21_slides_zhou.pdf
 publishDate: 2021-08-10T00:00:00.000Z
