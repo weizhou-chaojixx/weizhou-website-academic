@@ -5,12 +5,12 @@ url_video: ""
 date: 2019-07-30T00:00:00.000Z
 external_link: ""
 url_slides: ""
-title: Security Hazards in the Interactions among Smart Home Platforms
+title: Security Analysis of Smart Home Platform Interactions
 tags:
   - smarthome
 links: []
 image:
-  caption: Tested Devices
+  caption: ""
   focal_point: Smart
   filename: featured.png
 

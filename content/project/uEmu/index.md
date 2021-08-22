@@ -11,7 +11,7 @@ tags:
   - firmware
 links: []
 image:
-  caption: uEmu
+  caption: ""
   focal_point: Smart
   filename: featured.png
 url_code: "https://github.com/MCUSec/uEmu"
