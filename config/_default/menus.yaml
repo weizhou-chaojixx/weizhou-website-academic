@@ -19,7 +19,7 @@ main:
   - name: Projects
     url: '#projects'
     weight: 40
-  - name: Talks
+  - name: Services
     url: '#gallery'
     weight: 50
   - name: Contact
