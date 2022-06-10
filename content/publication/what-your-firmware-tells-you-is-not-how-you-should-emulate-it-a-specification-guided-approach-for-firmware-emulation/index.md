@@ -4,12 +4,13 @@ title: "What Your Firmware Tells You Is Not How You Should Emulate It: A
 publication_types:
   - "1"
 authors:
-  - Wei Zhou
+  - admin
   - Lan Zhang
   - Le Guan
   - Peng Liu
   - Yuqing Zhang
-publication: 2022 ACM SIGSAC Conference on Computer and Communications Security (CCS) CCF-A
+publication: "*2022 ACM SIGSAC Conference on Computer and Communications
+  Security (CCS)*, **CCF-A**"
 draft: false
 featured: false
 image:
