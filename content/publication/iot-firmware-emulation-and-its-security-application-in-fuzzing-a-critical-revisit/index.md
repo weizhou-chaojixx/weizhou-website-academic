@@ -4,7 +4,7 @@ title: "IoT firmware emulation and its security application in fuzzing: A
 publication_types:
   - "2"
 authors:
-  - Wei Zhou
+  - admin
   - Shandian Shen
   - Peng Liu
 publication: Future Internet 2025
