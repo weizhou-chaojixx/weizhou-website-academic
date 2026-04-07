@@ -5,11 +5,12 @@ publication_types:
   - "1"
 authors:
   - Shandian Shen
-  - admin Keming Zhao
+  - admin
+  - Keming Zhao
   - Peng Liu
   - Chung Hwan Kim
   - Le Guan
-publication: " IEEE Symposium on Security and Privacy "
+publication: " IEEE Symposium on Security and Privacy, , **CCF-A**"
 publication_short: S&P 2026
 draft: false
 featured: false
