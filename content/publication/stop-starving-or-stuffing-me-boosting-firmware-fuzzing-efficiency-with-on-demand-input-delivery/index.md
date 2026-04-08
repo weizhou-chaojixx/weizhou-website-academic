@@ -10,7 +10,7 @@ authors:
   - Peng Liu
   - Chung Hwan Kim
   - Le Guan
-publication: " IEEE Symposium on Security and Privacy, , **CCF-A**"
+publication: " IEEE Symposium on Security and Privacy, **CCF-A**"
 publication_short: S&P 2026
 draft: false
 featured: false
