@@ -6,7 +6,7 @@ bio: My research interests include IoT security, mobile security and program
   analysis.
 interests:
   - IoT Security
-  - System Security
+  - Firmware Security
   - Binary Analysis
 social:
   - icon: envelope
@@ -17,7 +17,7 @@ social:
     link: https://scholar.google.com/citations?user=oHXABA8AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/weizhou-chaojixx
+    link: https://github.com/IoTS-P
 organizations:
   - name: Huazhong University of Science and Technology
     url: http://english.hust.edu.cn/
@@ -43,6 +43,6 @@ My research interests cover a wide range of systems security, including trusted 
 
 ### Opening:
 
-I am looking for self-motivated master or Ph.D. students to work on cybersecurity problems, especially **IoT security**. 
+I am looking for self-motivated master or Ph.D. students to work on cybersecurity problems, especially **IoT and firmware security**. 
 Please send me your CV if interested. Candidates are expected to have a solid background in system programming and operating systems. 
 If you are a HUST (undergraduate/master) student with interests in my areas, my lab is also welcome.
