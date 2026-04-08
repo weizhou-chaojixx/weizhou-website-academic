@@ -33,7 +33,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-![](logo.svg)
+![]()
 
 ## About Me
 
