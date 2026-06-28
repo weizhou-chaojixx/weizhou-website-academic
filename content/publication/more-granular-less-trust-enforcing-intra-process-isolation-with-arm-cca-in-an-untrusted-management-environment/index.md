@@ -12,7 +12,7 @@ authors:
   - Zhaohui Chen
   - Yulai Xie
 publication: IEEE Transactions on Information Forensics and Security
-publication_short: TIFS 2025 (CCF-A)
+publication_short: TIFS 2025, **CCF-A**
 draft: false
 featured: false
 image:
