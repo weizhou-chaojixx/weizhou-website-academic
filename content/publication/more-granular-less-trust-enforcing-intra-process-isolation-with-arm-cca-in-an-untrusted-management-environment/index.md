@@ -16,7 +16,7 @@ publication_short: TIFS 2025, **CCF-A**
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2026-06-28T12:33:57.925Z
