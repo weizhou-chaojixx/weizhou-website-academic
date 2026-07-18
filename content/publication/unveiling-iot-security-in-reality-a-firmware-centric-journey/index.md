@@ -10,7 +10,7 @@ authors:
   - Ziming Zhao
   - Le Guan
 publication: "33th USENIX Security Symposium "
-publication_short: Security '24
+publication_short: Security 2024, **CCF-A**
 abstract: >-
   To study the security properties of the Internet of Things (IoT), firmware
   analysis is crucial. In the past, many works have been focused on analyzing
