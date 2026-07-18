@@ -12,7 +12,7 @@ publication_short: ""
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2026-04-05T14:17:20.422Z
