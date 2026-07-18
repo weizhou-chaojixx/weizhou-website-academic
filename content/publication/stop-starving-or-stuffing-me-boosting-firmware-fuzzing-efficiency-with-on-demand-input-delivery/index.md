@@ -11,7 +11,7 @@ authors:
   - Chung Hwan Kim
   - Le Guan
 publication: " IEEE Symposium on Security and Privacy, **CCF-A**"
-publication_short: S&P 2026
+publication_short: S&P 2026, **CCF-A**
 draft: false
 featured: false
 image:
