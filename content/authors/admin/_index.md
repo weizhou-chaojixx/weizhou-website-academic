@@ -33,7 +33,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-![]()
 
 ## About Me
 
